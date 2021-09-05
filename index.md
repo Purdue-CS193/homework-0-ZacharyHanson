@@ -1,7 +1,9 @@
 ## Welcome to GitHub Pages
 # Zachary Hanson's First CS193 Homework
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+- I like that CS193 is run by students who were in a similar situation to us students.
+- I like that the people I have met in CS193 have been very nice to me.
+- The best part about CS193 is it will teach me valuable lessons I can use throughout my time here at Purdue.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
